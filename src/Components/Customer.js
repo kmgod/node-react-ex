@@ -14,7 +14,7 @@ class CustomerProfile extends React.Component {
     render() {
         return (
             <div>
-                <image src={this.props.image} alt="profile" />   
+                <image src={this.props.image}/>   
                 <h2>{this.props.name}({this.props.id})</h2>
             </div>
         )
