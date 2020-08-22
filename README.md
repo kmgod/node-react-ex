@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+이 프로젝트는 React-Node JS를 테스트 하기 위해 작성한 것입니다.
 ## Available Scripts
 
 In the project directory, you can run:
