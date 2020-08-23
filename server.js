@@ -31,7 +31,14 @@ app.get('/api/customers', (req, res) => {
         'birthday': '120504',
         'gender': '아이',
         'job': '초딩생'
-      }]);
+    },
+    {
+        'id': 4,
+        'image': 'https://placeimg.com/64/64/4',
+        'name': '강마로',
+        'birthday': '140619',
+        'gender': '애기',
+        'job': '꿈딩생'      }]);
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
